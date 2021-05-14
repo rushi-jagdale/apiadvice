@@ -1,5 +1,7 @@
 # apiadvice
 django-admin startproject apiadvisor
+
+
 python3 manage.py startapp apiapp
 create models
 create serializers.py file
